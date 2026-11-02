@@ -27,15 +27,6 @@ A reasoning-oriented assistant exploring knowledge representation, evidence-back
 - Work on explanation traces, state persistence, and test-driven reliability
 - Repository currently private; details available upon request
 
-### Servat — Investment Research Platform
-A Canadian-first, read-only investment intelligence platform combining brokerage data, market data, and public disclosures.
-
-**Stack:** React, Vite, TypeScript, FastAPI, PostgreSQL, pgvector, Supabase, LangGraph, LiteLLM, Docker
-
-- API-first backend with frontend types generated from OpenAPI
-- Read-only architecture without trade execution in its initial phase
-- Retrieval-grounded AI over normalized investment data
-
 ## Technical Toolkit
 
 | Area | Technologies |
