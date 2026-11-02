@@ -12,13 +12,18 @@ I build practical AI-powered products with reliable APIs, contextual data, and c
 ## What I'm Building
 
 ### MoneyMind — Context-Aware Personal Finance Copilot
-An AI personal finance application designed to use user context, goals, and financial patterns for more relevant guidance.
+A collaborative AI personal finance application that uses spending data, user context, goals, and budgets to provide more relevant financial guidance.
 
-**Stack:** Next.js, React, TypeScript, FastAPI, MongoDB Atlas, LangGraph, Gemini, Clerk
+**Stack:** React 19, Vite, TypeScript, Tailwind CSS, FastAPI, MongoDB Atlas, Atlas Vector Search, Voyage AI, LangGraph, Gemini, Clerk
 
 - Separate frontend, backend, and agent services
-- MongoDB Atlas for financial data and contextual application state
-- Focus on personalized, context-aware interactions rather than static dashboards
+- MongoDB Atlas for financial data and contextual memory
+- Financial statement ingestion and context-aware agent workflows
+- Focus on personalized guidance backed by reliable data processing and evaluation
+
+**Explore:** [MoneyMind case study](https://github.com/kasrabshz77/kasrabshz77/blob/main/projects/moneymind-case-study.md) · [Vercel preview](https://money-mind-prod.vercel.app)
+
+*The actively developed production repository is private.*
 
 ### JARVIS — Explainable AI Assistant
 A reasoning-oriented assistant exploring knowledge representation, evidence-backed explanations, and reliable state changes.
