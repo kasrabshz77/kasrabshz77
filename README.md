@@ -40,14 +40,17 @@ A full-stack task-management application that explains blockers and readiness wi
 
 ## Technical Toolkit
 
+*Technologies used across MoneyMind and JARVIS.*
+
 | Area | Technologies |
 | --- | --- |
 | Languages | Python, TypeScript, JavaScript, SQL, Prolog |
-| Frontend | React, Next.js, Vite, Tailwind CSS |
+| Frontend | React, Vite, Tailwind CSS |
 | Backend | FastAPI, REST APIs, Pydantic |
-| Data | MongoDB Atlas, PostgreSQL, pgvector, Supabase |
-| AI | LangGraph, LangChain, Gemini, LiteLLM |
-| Engineering | Git, GitHub Actions, Docker, automated testing, CI |
+| Data & memory | MongoDB Atlas, Atlas Vector Search, SQLite, Voyage AI embeddings |
+| AI & reasoning | LangGraph, Gemini, SWI-Prolog, Janus |
+| Testing & delivery | pytest, Playwright, GitHub Actions, Docker, Git |
+| Integrations | Clerk, Plaid Sandbox |
 
 ## Currently Exploring
 
