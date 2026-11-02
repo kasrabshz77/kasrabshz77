@@ -1,68 +1,62 @@
-# Hi, I'm Kasra
+# Hi, I'm Kasra 👋
 
-**4th-year Computer Science student**  
-**Testing, Commissioning, and V&V Intern at Connect 6ix**
+**Computer Science @ Toronto Metropolitan University | AI Agents · Backend Engineering · MongoDB**
 
-I build full-stack products with clean APIs, practical AI features, and reliable user experiences. My current work is focused on finance-oriented software, backend systems, and AI workflows that are useful without being noisy.
+I build practical AI-powered products with reliable APIs, contextual data, and clear reasoning. I'm especially interested in agent memory, retrieval-grounded responses, and turning prototypes into dependable systems.
 
----
+- 🎓 Computer Science student at Toronto Metropolitan University
+- 🛠️ Testing, Commissioning & V&V Intern at Connect 6ix
+- 🧠 Exploring contextual AI agents, knowledge representation, and trustworthy AI systems
+- 📍 Based in the Greater Toronto Area, Canada
 
-## About Me
+## What I'm Building
 
-- Computer Science student interested in full-stack engineering, backend architecture, and applied AI.
-- Currently building projects with React, Next.js, TypeScript, Python, and FastAPI.
-- I care about reliability, clear product thinking, and software that is easy to understand and maintain.
-- My internship experience has strengthened how I think about testing, validation, systems, and real-world engineering constraints.
+### MoneyMind — Context-Aware Personal Finance Copilot
+An AI personal finance application designed to use user context, goals, and financial patterns for more relevant guidance.
 
-## Current Focus
+**Stack:** Next.js, React, TypeScript, FastAPI, MongoDB Atlas, LangGraph, Gemini, Clerk
 
-- Building finance-focused products with modern web interfaces and structured data.
-- Designing backend APIs, database models, and service boundaries.
-- Exploring AI agents, retrieval-grounded responses, and safer AI product patterns.
-- Improving testing, deployment, observability, and production-readiness.
+- Separate frontend, backend, and agent services
+- MongoDB Atlas for financial data and contextual application state
+- Focus on personalized, context-aware interactions rather than static dashboards
 
-## Tech Stack
+### JARVIS — Explainable AI Assistant
+A reasoning-oriented assistant exploring knowledge representation, evidence-backed explanations, and reliable state changes.
 
-| Area | Tools |
-|---|---|
-| Languages | Python, TypeScript, JavaScript, SQL |
-| Frontend | React, Next.js, Vite, Tailwind CSS, shadcn/ui |
-| Backend | FastAPI, REST APIs, Pydantic, Alembic |
-| Data | PostgreSQL, pgvector, MongoDB Atlas, Supabase |
-| AI | LangGraph, LangChain, Gemini, LiteLLM |
-| Tools | Git, Docker, uv, npm, pnpm, Vercel, Railway, Render |
+- Python and Prolog reasoning components with a frontend interface
+- Work on explanation traces, state persistence, and test-driven reliability
+- Repository currently private; details available upon request
 
-## Featured Projects
-
-### Servat
-
-A Canadian-first, read-only investment intelligence platform for researching brokerage data, market data, and public trading disclosures in one place.
+### Servat — Investment Research Platform
+A Canadian-first, read-only investment intelligence platform combining brokerage data, market data, and public disclosures.
 
 **Stack:** React, Vite, TypeScript, FastAPI, PostgreSQL, pgvector, Supabase, LangGraph, LiteLLM, Docker
 
-**Highlights**
-- API-first backend with generated frontend types from OpenAPI.
-- Read-only architecture with no trade execution in the first phase.
-- Foundation for retrieval-grounded AI over normalized investment data.
+- API-first backend with frontend types generated from OpenAPI
+- Read-only architecture without trade execution in its initial phase
+- Retrieval-grounded AI over normalized investment data
 
-### MoneyMind
+## Technical Toolkit
 
-An AI personal finance co-pilot that uses user context, goals, and patterns to provide more relevant financial nudges over time.
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, TypeScript, JavaScript, SQL, Prolog |
+| Frontend | React, Next.js, Vite, Tailwind CSS |
+| Backend | FastAPI, REST APIs, Pydantic |
+| Data | MongoDB Atlas, PostgreSQL, pgvector, Supabase |
+| AI | LangGraph, LangChain, Gemini, LiteLLM |
+| Engineering | Git, GitHub Actions, Docker, automated testing, CI |
 
-**Stack:** Next.js, React, TypeScript, Tailwind CSS, FastAPI, MongoDB Atlas, LangGraph, Gemini, Clerk
+## Currently Exploring
 
-**Highlights**
-- Separate frontend, backend, and agent services.
-- MongoDB-backed memory for user context and finance-related patterns.
-- Focused on proactive, context-aware support instead of static dashboards.
+- Persistent context and memory for AI agents
+- Retrieval and evidence-based reasoning
+- Evaluation, testing, and observability for AI applications
+- Secure, maintainable backend architecture
 
-## Learning Goals
+## Connect
 
-- Build more production-ready systems with better testing, observability, and deployment practices.
-- Deepen my backend architecture, database design, and API design skills.
-- Learn how to design AI features with clear boundaries, grounding, and user trust.
-- Keep improving the quality and clarity of the products I build.
+- [LinkedIn](https://www.linkedin.com/in/kasra-bashizadeh-85a261326/)
+- [GitHub](https://github.com/kasrabshz77)
 
-## Contact
-
-- GitHub: [github.com/kasrabshz77](https://github.com/kasrabshz77)
+> Some active projects are private while under development. I'm happy to discuss their architecture, engineering tradeoffs, and demos.
