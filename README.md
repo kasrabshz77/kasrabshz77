@@ -45,10 +45,10 @@ A full-stack task-management application that explains blockers and readiness wi
 | Area | Technologies |
 | --- | --- |
 | Languages | Python, TypeScript, JavaScript, SQL, Prolog |
-| Frontend | React, Vite, Tailwind CSS |
+| Frontend | React, Next.js, Vite, Tailwind CSS |
 | Backend | FastAPI, REST APIs, Pydantic |
-| Data & memory | MongoDB Atlas, Atlas Vector Search, SQLite, Voyage AI embeddings |
-| AI & reasoning | LangGraph, Gemini, SWI-Prolog, Janus |
+| Data & memory | MongoDB Atlas, Atlas Vector Search, SQLite, PostgreSQL, pgvector, Supabase, Voyage AI embeddings |
+| AI & reasoning | LangGraph, LangChain, Gemini, LiteLLM, SWI-Prolog, Janus |
 | Testing & delivery | pytest, Playwright, GitHub Actions, Docker, Git |
 | Integrations | Clerk, Plaid Sandbox |
 
