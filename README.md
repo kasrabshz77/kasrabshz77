@@ -25,12 +25,18 @@ A collaborative AI personal finance application that uses spending data, user co
 
 *The actively developed production repository is private.*
 
-### JARVIS — Explainable AI Assistant
-A reasoning-oriented assistant exploring knowledge representation, evidence-backed explanations, and reliable state changes.
+### JARVIS — Explainable Task Reasoning System
+A full-stack task-management application that explains blockers and readiness with symbolic reasoning, stored dependencies, and inspectable evidence paths.
 
-- Python and Prolog reasoning components with a frontend interface
-- Work on explanation traces, state persistence, and test-driven reliability
-- Repository currently private; details available upon request
+**Stack:** Python, FastAPI, SWI-Prolog, Janus, SQLite, React, TypeScript
+
+- Persistent task management and cycle-safe dependency editing
+- Prolog reasoning for direct and underlying blockers, with a visual dependency graph and **Why?** explanations
+- Bounded execution, recovery checks, independent reasoning tests, and real-browser integration verification
+
+**Explore:** [JARVIS case study](https://github.com/kasrabshz77/kasrabshz77/blob/main/projects/jarvis-case-study.md)
+
+*Private development repository; conversational AI and voice capabilities are planned.*
 
 ## Technical Toolkit
 
