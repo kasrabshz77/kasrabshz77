@@ -21,7 +21,7 @@ A collaborative AI personal finance application that uses spending data, user co
 - Financial statement ingestion and context-aware agent workflows
 - Focus on personalized guidance backed by reliable data processing and evaluation
 
-**Explore:** [MoneyMind case study](https://github.com/kasrabshz77/kasrabshz77/blob/main/projects/moneymind-case-study.md) · [Vercel preview](https://money-mind-prod.vercel.app)
+**Explore:** [MoneyMind showcase](https://github.com/kasrabshz77/moneymind-showcase) · [Vercel preview](https://money-mind-prod.vercel.app)
 
 *The actively developed production repository is private.*
 
@@ -34,7 +34,7 @@ A full-stack task-management application that explains blockers and readiness wi
 - Prolog reasoning for direct and underlying blockers, with a visual dependency graph and **Why?** explanations
 - Bounded execution, recovery checks, independent reasoning tests, and real-browser integration verification
 
-**Explore:** [JARVIS case study](https://github.com/kasrabshz77/kasrabshz77/blob/main/projects/jarvis-case-study.md)
+**Explore:** [JARVIS showcase](https://github.com/kasrabshz77/jarvisAi-showcase)
 
 *Private development repository; conversational AI and voice capabilities are planned.*
 
